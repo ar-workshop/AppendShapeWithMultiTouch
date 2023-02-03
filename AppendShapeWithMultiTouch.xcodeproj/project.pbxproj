@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3D2C98A22983A0D700822E9A /* AR1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AR1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D2C98A22983A0D700822E9A /* AppendShapeWithMultiTouch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppendShapeWithMultiTouch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D2C98A52983A0D700822E9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D2C98A72983A0D700822E9A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3D2C98A92983A0D700822E9A /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
@@ -37,7 +37,7 @@
 		3D2C98992983A0D700822E9A = {
 			isa = PBXGroup;
 			children = (
-				3D2C98A42983A0D700822E9A /* AR1 */,
+				3D2C98A42983A0D700822E9A /* AppendShapeWithMultiTouch */,
 				3D2C98A32983A0D700822E9A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -45,12 +45,12 @@
 		3D2C98A32983A0D700822E9A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3D2C98A22983A0D700822E9A /* AR1.app */,
+				3D2C98A22983A0D700822E9A /* AppendShapeWithMultiTouch.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3D2C98A42983A0D700822E9A /* AR1 */ = {
+		3D2C98A42983A0D700822E9A /* AppendShapeWithMultiTouch */ = {
 			isa = PBXGroup;
 			children = (
 				3D2C98A52983A0D700822E9A /* AppDelegate.swift */,
@@ -59,7 +59,7 @@
 				3D2C98AB2983A0D800822E9A /* Assets.xcassets */,
 				3D2C98AD2983A0D800822E9A /* Preview Content */,
 			);
-			path = AR1;
+			path = AppendShapeWithMultiTouch;
 			sourceTree = "<group>";
 		};
 		3D2C98AD2983A0D800822E9A /* Preview Content */ = {
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3D2C98A12983A0D700822E9A /* AR1 */ = {
+		3D2C98A12983A0D700822E9A /* AppendShapeWithMultiTouch */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3D2C98B22983A0D800822E9A /* Build configuration list for PBXNativeTarget "AR1" */;
+			buildConfigurationList = 3D2C98B22983A0D800822E9A /* Build configuration list for PBXNativeTarget "AppendShapeWithMultiTouch" */;
 			buildPhases = (
 				3D2C989E2983A0D700822E9A /* Sources */,
 				3D2C989F2983A0D700822E9A /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = AR1;
+			name = AppendShapeWithMultiTouch;
 			productName = AR1;
-			productReference = 3D2C98A22983A0D700822E9A /* AR1.app */;
+			productReference = 3D2C98A22983A0D700822E9A /* AppendShapeWithMultiTouch.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3D2C989D2983A0D700822E9A /* Build configuration list for PBXProject "AR1" */;
+			buildConfigurationList = 3D2C989D2983A0D700822E9A /* Build configuration list for PBXProject "AppendShapeWithMultiTouch" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3D2C98A12983A0D700822E9A /* AR1 */,
+				3D2C98A12983A0D700822E9A /* AppendShapeWithMultiTouch */,
 			);
 		};
 /* End PBXProject section */
@@ -286,7 +286,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = jp.co.digitaljet.AR1;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.digitaljet.AppendShapeWithMultiTouch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -317,7 +317,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = jp.co.digitaljet.AR1;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.digitaljet.AppendShapeWithMultiTouch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -328,7 +328,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3D2C989D2983A0D700822E9A /* Build configuration list for PBXProject "AR1" */ = {
+		3D2C989D2983A0D700822E9A /* Build configuration list for PBXProject "AppendShapeWithMultiTouch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3D2C98B02983A0D800822E9A /* Debug */,
@@ -337,7 +337,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3D2C98B22983A0D800822E9A /* Build configuration list for PBXNativeTarget "AR1" */ = {
+		3D2C98B22983A0D800822E9A /* Build configuration list for PBXNativeTarget "AppendShapeWithMultiTouch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3D2C98B32983A0D800822E9A /* Debug */,
